@@ -1,0 +1,9 @@
+$rotate_angle: 180deg;
+
+body {
+    transform: rotate($rotate_angle);
+}
+
+.test {
+    background: url("./images/doomguyav.png");
+}
